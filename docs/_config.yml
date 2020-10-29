@@ -1,23 +1,23 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://iampdm.com"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : IamPdm.com
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Vladimir Ovsyanikov
+    description : Product Manager at Cloudcall (SAFe POPM, CSPO, CSM)
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2018-02-01
+        experience : Cloudcall, Product Manager
+
     skills : 
-      - skill : HTML5 & CSS
+      - skill : Product Managment
         value : 85  # Percent value
         
   # Icons
